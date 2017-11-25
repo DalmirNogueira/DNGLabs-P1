@@ -2,6 +2,8 @@
 
 ![alt text](https://github.com/DalmirNogueira/DNGLabs-P1/blob/master/Screenshot_1511587860.png?raw=true)
 
+# Content Review
+
 CRITERIA
 
 Design includes all specified business criteria
@@ -17,7 +19,8 @@ Contact information for the business (eg phone number, email address, website)
 Address of the Business
 Description of business
 Hours of operation
-Functionality
+
+# Functionality
 
 CRITERIA
 
@@ -32,7 +35,7 @@ Layout scales responsively for screen sizes in portrait mode, with no part of an
 
 Note: Reviewers will test on a Nexus 5X which has a screen size of 5.2 inches (132.08mm). It is advised you test on this size at minimum. If your content does not fit on this size, consider implementing a ScrollView.
 
-Code Review
+# Code Review
 
 CRITERIA
 
